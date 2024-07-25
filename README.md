@@ -54,22 +54,14 @@ Windows系统通过注册表配置某些应用程序需要加载的DLL文件路�
 4.定期检查和更新系统与应用程序，确保所有软件都是最新版本，修复已知的漏洞。
 
 
-# 支持项目
-如果您觉得这个项目有用，并愿意支持我的工作，您可以通过比特币捐款：
-
-## 比特币地址：bc1qzwd50xcndq3n52d83yy3uwxpxzmhadjsruyhvg  
-##             bc1qy2csn85w52y0m0x809uukjef93hg5j4jec5wna
-
-非常感谢您的支持！
 
 
 # Support the Project
-If you find this project helpful and would like to support my work, you can donate via Bitcoin and help me buy a cup of coffee:
+☕️☕️☕️If you find this project helpful and would like to support my work, you can donate via Bitcoin and help me buy a cup of coffee☕️:
 
-## Bitcoin Address: bc1qzwd50xcndq3n52d83yy3uwxpxzmhadjsruyhvg    
-##                  bc1qy2csn85w52y0m0x809uukjef93hg5j4jec5wna
+## Bitcoin Address: bc1qzwd50xcndq3n52d83yy3uwxpxzmhadjsruyhvg  bc1qy2csn85w52y0m0x809uukjef93hg5j4jec5wna            
 
-Thank you very much for your support!
+T😊😊😊hank you very much for your support!
 
 
 
