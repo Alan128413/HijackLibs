@@ -1,1 +1,0 @@
-<?PHP echo "Hello THM"; ?>
